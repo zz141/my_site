@@ -5,4 +5,11 @@ li{list-style:none}
 
 a{text-decoration:none;}
 a:link,a:visited{color:#000;}
-.cleafix:after{content:""; display:block;clear:both;}
+.clearfix:after{content:""; display:block;clear:both;}
+
+.wrapB {
+	width:1200px;
+	margin:0 auto;
+}
+
+span{color:blue;}
